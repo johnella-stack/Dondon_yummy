@@ -38,7 +38,7 @@
                                 @foreach($users as $user)
                                     <tr>
                                         <td>{{ $user->johnelladonodn }}</td>
-                                        <td>{{ $user->email }}</td>
+                                        <td>{{ $user->diannebosque }}</td>
                                     </tr>
                                 @endforeach
                                 </tbody>
