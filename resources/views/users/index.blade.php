@@ -21,6 +21,7 @@
 
                     <div class="alert alert-info">
                         Sample table page
+                        Sample table page nga dondon
                     </div>
 
                     <div class="card">
